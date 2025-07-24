@@ -23,6 +23,5 @@ function sum(num1,num2) {
     this.num2=num2;
     let answer = num1+num2;
 return answer;
-}
-
+} 
 console.log(sum(num1,num2))
